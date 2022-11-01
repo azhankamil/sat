@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reacthello/static/css/main.39d871c2.css",
+    "main.js": "/reacthello/static/js/main.9944a89b.js",
+    "static/js/787.fe1675bb.chunk.js": "/reacthello/static/js/787.fe1675bb.chunk.js",
+    "index.html": "/reacthello/index.html",
+    "main.39d871c2.css.map": "/reacthello/static/css/main.39d871c2.css.map",
+    "main.9944a89b.js.map": "/reacthello/static/js/main.9944a89b.js.map",
+    "787.fe1675bb.chunk.js.map": "/reacthello/static/js/787.fe1675bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39d871c2.css",
+    "static/js/main.9944a89b.js"
+  ]
+}
